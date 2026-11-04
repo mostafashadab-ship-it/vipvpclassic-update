@@ -1,8 +1,8 @@
 {
-  "versionCode": 46,
-  "versionName": "46.0",
+  "versionCode": 48,
+  "versionName": "48.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Bug fixes and improvements.",
-  "notesFa": "رفع اشکال و بهبود عملکرد.",
+  "notes": "Nicer buttons and animation at the bottom of the server list.",
+  "notesFa": "دکمه‌های قشنگ‌تر و انیمیشن پایین لیست سرورها.",
   "sha256": ""
 }
