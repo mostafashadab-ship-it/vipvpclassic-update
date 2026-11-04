@@ -1,8 +1,8 @@
 {
-  "versionCode": 63,
-  "versionName": "63.0",
+  "versionCode": 64,
+  "versionName": "64.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Quick Settings tile icon changed from a padlock to a shield.",
-  "notesFa": "آیکون تایل تنظیمات سریع از قفل به سپر تغییر کرد.",
+  "notes": "The Update button now blinks when a new version is available.",
+  "notesFa": "وقتی نسخه جدید موجود باشد، دکمه بروزرسانی چشمک می‌زند.",
   "sha256": ""
 }
