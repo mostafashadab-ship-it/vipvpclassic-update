@@ -1,8 +1,8 @@
 {
-  "versionCode": 66,
-  "versionName": "66.0",
+  "versionCode": 76,
+  "versionName": "76.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Login checks your User ID and password with the server. Show password box is now visible. Login animation removed.",
-  "notesFa": "ورود نام کاربری و رمز را با سرور چک می‌کند. تیک نمایش رمز حالا دیده می‌شود. گیف صفحه ورود برداشته شد.",
+  "notes": "Settings: removed website/channel links, copy icon moved next to the user name.",
+  "notesFa": "تنظیمات: لینک سایت و کانال حذف شد و آیکون کپی کنار نام کاربری آمد.",
   "sha256": ""
 }
