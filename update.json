@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "54.0",
+  "versionCode": 61,
+  "versionName": "61.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Labels under top icons; update removed from settings; smaller animation.",
-  "notesFa": "برچسب زیر آیکون‌ها، حذف بروزرسانی از تنظیمات و کوچک‌تر شدن تصویر متحرک.",
+  "notes": "On Android 13 and below the IKEv2 button and server list are hidden (only L2TP is shown).",
+  "notesFa": "در اندروید ۱۳ و پایین‌تر دکمه و سرورهای IKEv2 مخفی شد (فقط L2TP نمایش داده می‌شود).",
   "sha256": ""
 }
