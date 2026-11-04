@@ -1,8 +1,8 @@
 {
-  "versionCode": 61,
-  "versionName": "61.0",
+  "versionCode": 63,
+  "versionName": "63.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "On Android 13 and below the IKEv2 button and server list are hidden (only L2TP is shown).",
-  "notesFa": "در اندروید ۱۳ و پایین‌تر دکمه و سرورهای IKEv2 مخفی شد (فقط L2TP نمایش داده می‌شود).",
+  "notes": "Quick Settings tile icon changed from a padlock to a shield.",
+  "notesFa": "آیکون تایل تنظیمات سریع از قفل به سپر تغییر کرد.",
   "sha256": ""
 }
