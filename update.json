@@ -1,8 +1,8 @@
 {
-  "versionCode": 65,
-  "versionName": "65.0",
+  "versionCode": 66,
+  "versionName": "66.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Login now checks your User ID and password with the server. Added Show password, removed the animation on the login screen.",
-  "notesFa": "ورود حالا نام کاربری و رمز را با سرور چک می‌کند. نمایش رمز اضافه شد و گیف صفحه ورود برداشته شد.",
+  "notes": "Login checks your User ID and password with the server. Show password box is now visible. Login animation removed.",
+  "notesFa": "ورود نام کاربری و رمز را با سرور چک می‌کند. تیک نمایش رمز حالا دیده می‌شود. گیف صفحه ورود برداشته شد.",
   "sha256": ""
 }
