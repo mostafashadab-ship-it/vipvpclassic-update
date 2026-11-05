@@ -1,8 +1,8 @@
 {
-  "versionCode": 87,
-  "versionName": "87.0",
+  "versionCode": 92,
+  "versionName": "92.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Fixes: manual-connect button no longer stays orange; Auto connect tries a much faster Cisco server first; new wording in the connected messages.",
-  "notesFa": "رفع باگ دکمهٔ نارنجی اتصال دستی؛ در اتصال خودکار سرور Cisco خیلی سریع‌تر اول امتحان می‌شود؛ متن پیام‌های بعد از اتصال اصلاح شد.",
+  "notes": "Login screen: Show password is ticked by default; new wording in the wrong-password message.",
+  "notesFa": "صفحهٔ ورود: تیک نمایش رمز عبور به‌صورت پیش‌فرض روشن است و متن پیام رمز اشتباه تغییر کرد.",
   "sha256": ""
 }
