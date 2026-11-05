@@ -1,8 +1,8 @@
 {
-  "versionCode": 82,
-  "versionName": "82.0",
+  "versionCode": 87,
+  "versionName": "87.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Random cheerful messages; in automatic mode a server that connects but shows no country flag is dropped and the next server is tried.",
-  "notesFa": "پیام‌های شاد تصادفی؛ در حالت خودکار سروری که وصل شود ولی پرچم کشور نیاید قطع می‌شود و سرور بعدی امتحان می‌شود.",
+  "notes": "Fixes: manual-connect button no longer stays orange; Auto connect tries a much faster Cisco server first; new wording in the connected messages.",
+  "notesFa": "رفع باگ دکمهٔ نارنجی اتصال دستی؛ در اتصال خودکار سرور Cisco خیلی سریع‌تر اول امتحان می‌شود؛ متن پیام‌های بعد از اتصال اصلاح شد.",
   "sha256": ""
 }
