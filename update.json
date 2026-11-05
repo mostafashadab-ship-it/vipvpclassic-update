@@ -1,8 +1,8 @@
 {
-  "versionCode": 92,
-  "versionName": "92.0",
+  "versionCode": 96,
+  "versionName": "96.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Login screen: Show password is ticked by default; new wording in the wrong-password message.",
-  "notesFa": "صفحهٔ ورود: تیک نمایش رمز عبور به‌صورت پیش‌فرض روشن است و متن پیام رمز اشتباه تغییر کرد.",
+  "notes": "Auto connect (Android below 14): after 2 failed L2TP servers one Cisco server is tried, then the rest continue. Update button check made more reliable.",
+  "notesFa": "اتصال خودکار (اندروید زیر ۱۴): بعد از شکست دو سرور L2TP یک سرور Cisco امتحان می‌شود و اگر نشد بقیه ادامه پیدا می‌کنند. بررسی دکمهٔ بروزرسانی مطمئن‌تر شد.",
   "sha256": ""
 }
