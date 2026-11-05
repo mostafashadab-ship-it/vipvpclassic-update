@@ -1,8 +1,8 @@
 {
-  "versionCode": 103,
-  "versionName": "103.0",
+  "versionCode": 112,
+  "versionName": "112.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Every connection error now shows a simple explanation.",
-  "notesFa": "هر خطای اتصال حالا با توضیح ساده نمایش داده می‌شود.",
+  "notes": "Cisco: fixed a random first-try failure (it now retries automatically).",
+  "notesFa": "سیسکو: رفع خطای تصادفی بار اول (حالا خودکار دوباره تلاش می‌کند).",
   "sha256": ""
 }
