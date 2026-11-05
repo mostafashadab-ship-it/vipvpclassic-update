@@ -1,8 +1,8 @@
 {
-  "versionCode": 100,
-  "versionName": "100.0",
+  "versionCode": 103,
+  "versionName": "103.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Servers Mu2 (Cisco) and L2tp removed from the list.",
-  "notesFa": "سرورهای Mu2 (سیسکو) و L2tp از لیست حذف شدند.",
+  "notes": "Every connection error now shows a simple explanation.",
+  "notesFa": "هر خطای اتصال حالا با توضیح ساده نمایش داده می‌شود.",
   "sha256": ""
 }
