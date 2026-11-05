@@ -1,8 +1,8 @@
 {
-  "versionCode": 96,
-  "versionName": "96.0",
+  "versionCode": 99,
+  "versionName": "99.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Auto connect (Android below 14): after 2 failed L2TP servers one Cisco server is tried, then the rest continue. Update button check made more reliable.",
-  "notesFa": "اتصال خودکار (اندروید زیر ۱۴): بعد از شکست دو سرور L2TP یک سرور Cisco امتحان می‌شود و اگر نشد بقیه ادامه پیدا می‌کنند. بررسی دکمهٔ بروزرسانی مطمئن‌تر شد.",
+  "notes": "Edit tick is now green; login User ID / password are remembered as typed; deleted built-in servers (IKEv2, Cisco, L2TP) come back once.",
+  "notesFa": "تیک ویرایش سرور رنگی شد؛ نام کاربری و رمز صفحهٔ ورود همان‌طور که تایپ می‌شود ذخیره می‌شود؛ سرورهای پیش‌فرض حذف‌شده (IKEv2، Cisco، L2TP) یک بار برمی‌گردند.",
   "sha256": ""
 }
