@@ -1,8 +1,8 @@
 {
-  "versionCode": 76,
-  "versionName": "76.0",
+  "versionCode": 82,
+  "versionName": "82.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Settings: removed website/channel links, copy icon moved next to the user name.",
-  "notesFa": "تنظیمات: لینک سایت و کانال حذف شد و آیکون کپی کنار نام کاربری آمد.",
+  "notes": "Random cheerful messages; in automatic mode a server that connects but shows no country flag is dropped and the next server is tried.",
+  "notesFa": "پیام‌های شاد تصادفی؛ در حالت خودکار سروری که وصل شود ولی پرچم کشور نیاید قطع می‌شود و سرور بعدی امتحان می‌شود.",
   "sha256": ""
 }
