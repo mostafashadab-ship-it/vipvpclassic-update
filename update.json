@@ -1,8 +1,8 @@
 {
-  "versionCode": 99,
-  "versionName": "99.0",
+  "versionCode": 100,
+  "versionName": "100.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Edit tick is now green; login User ID / password are remembered as typed; deleted built-in servers (IKEv2, Cisco, L2TP) come back once.",
-  "notesFa": "تیک ویرایش سرور رنگی شد؛ نام کاربری و رمز صفحهٔ ورود همان‌طور که تایپ می‌شود ذخیره می‌شود؛ سرورهای پیش‌فرض حذف‌شده (IKEv2، Cisco، L2TP) یک بار برمی‌گردند.",
+  "notes": "Servers Mu2 (Cisco) and L2tp removed from the list.",
+  "notesFa": "سرورهای Mu2 (سیسکو) و L2tp از لیست حذف شدند.",
   "sha256": ""
 }
