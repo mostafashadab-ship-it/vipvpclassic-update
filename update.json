@@ -1,8 +1,8 @@
 {
-  "versionCode": 137,
-  "versionName": "137.0",
+  "versionCode": 140,
+  "versionName": "140.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Removed the moonwalk. He says hello only once, when he first appears. Instead of \"Hmm...\" he now says one of three lines about turning the VPN on. The butterfly and the ball always show up on the opposite side of the screen from the monkey, and he runs across (around the top of the connect button) to chase them; every kick sends the ball back to the far side.",
-  "notesFa": "مون‌واک حذف شد. سلام فقط یک بار، اول که میمون میاد گفته می‌شه. به جای «هوم...» یکی از سه جمله‌ی روشن کردن فیلترشکن رو می‌گه. پروانه و توپ همیشه سمت مقابل میمون ظاهر می‌شن و میمون می‌دوه (از بالای دکمه‌ی اتصال دور می‌زنه) دنبالشون، و هر شوت توپ رو به سمت دور از میمون می‌فرسته.",
+  "notes": "Removed the \"tap to open the app\" notification (nothing is shown in the notification shade while the VPN is off). Removed from the monkey: sitting/jumping on the connect button, sneaking, meditation and a few lines. Ball: he first juggles it with his feet (keepy-uppy), then shoots it along the red line right over the connect button. Butterfly: it now flutters low, near the red line, and he runs straight across the connect button to catch it.",
+  "notesFa": "نوتیفیکیشن «برای باز کردن برنامه بزنید» حذف شد (وقتی فیلترشکن خاموشه هیچی تو پرده‌ی اعلان نمیاد). از میمون حذف شد: نشستن و پریدن روی دکمه‌ی اتصال، دزدکی رفتن، مدیتیشن و چند جمله. توپ: اول روپایی می‌زنه، بعد توپ رو روی خط قرمز شوت می‌کنه و از روی دکمه‌ی اتصال رد می‌شه. پروانه: پایین و نزدیک خط قرمز می‌چرخه و میمون صاف از روی دکمه‌ی اتصال می‌دوه تا بگیرتش.",
   "sha256": ""
 }
