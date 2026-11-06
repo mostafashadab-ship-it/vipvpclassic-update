@@ -1,8 +1,8 @@
 {
-  "versionCode": 112,
-  "versionName": "112.0",
+  "versionCode": 119,
+  "versionName": "119.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Cisco: fixed a random first-try failure (it now retries automatically).",
-  "notesFa": "سیسکو: رفع خطای تصادفی بار اول (حالا خودکار دوباره تلاش می‌کند).",
+  "notes": "New look for the manual connect button, new edit/delete icons, bolder flags, faster auto-connect.",
+  "notesFa": "ظاهر جدید دکمه‌ی اتصال دستی، آیکون‌های جدید ویرایش و حذف، پرچم‌های پررنگ‌تر و اتصال خودکار سریع‌تر.",
   "sha256": ""
 }
