@@ -1,8 +1,8 @@
 {
-  "versionCode": 119,
-  "versionName": "119.0",
+  "versionCode": 137,
+  "versionName": "137.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "New look for the manual connect button, new edit/delete icons, bolder flags, faster auto-connect.",
-  "notesFa": "ظاهر جدید دکمه‌ی اتصال دستی، آیکون‌های جدید ویرایش و حذف، پرچم‌های پررنگ‌تر و اتصال خودکار سریع‌تر.",
+  "notes": "Removed the moonwalk. He says hello only once, when he first appears. Instead of \"Hmm...\" he now says one of three lines about turning the VPN on. The butterfly and the ball always show up on the opposite side of the screen from the monkey, and he runs across (around the top of the connect button) to chase them; every kick sends the ball back to the far side.",
+  "notesFa": "مون‌واک حذف شد. سلام فقط یک بار، اول که میمون میاد گفته می‌شه. به جای «هوم...» یکی از سه جمله‌ی روشن کردن فیلترشکن رو می‌گه. پروانه و توپ همیشه سمت مقابل میمون ظاهر می‌شن و میمون می‌دوه (از بالای دکمه‌ی اتصال دور می‌زنه) دنبالشون، و هر شوت توپ رو به سمت دور از میمون می‌فرسته.",
   "sha256": ""
 }
