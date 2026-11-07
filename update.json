@@ -1,8 +1,8 @@
 {
-  "versionCode": 164,
-  "versionName": "164.0",
+  "versionCode": 190,
+  "versionName": "190.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Whitelist: apps ticked there work without the VPN even when it is on. New button and dialog texts.",
-  "notesFa": "لیست سفید: برنامه‌هایی که تیک بزنی حتی با روشن بودن فیلترشکن بدون آن کار می‌کنند. متن دکمه و توضیحات عوض شد.",
+  "notes": "Login: added the line 'Auto connect with just one tap to the best server' under IKEv2 / L2TP / Cisco.",
+  "notesFa": "صفحه ورود: زیر IKEv2 و L2TP و Cisco عبارت «اتصال خودکار فقط با یک کلیک به بهترین سرور» اضافه شد.",
   "sha256": ""
 }
