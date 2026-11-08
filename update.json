@@ -1,8 +1,8 @@
 {
-  "versionCode": 212,
-  "versionName": "212.0",
+  "versionCode": 216,
+  "versionName": "216.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Servers SER4.gsmxr.net and ca.gsmvpx.com were removed from the list. OpenVPN on mobile data: working network is chosen and used, smaller MTU, faster resend of handshake packets, and a wait + retry when the login is refused right after the app's own session.",
-  "notesFa": "سرورهای SER4.gsmxr.net و ca.gsmvpx.com از لیست حذف شدند. OpenVPN روی نت گوشی: شبکهٔ سالم انتخاب و استفاده می‌شود، MTU کوچک‌تر و ارسال مجدد سریع‌تر بسته‌های دست‌دهی دارد، و اگر لاگین درست بعد از نشست خود برنامه رد شود صبر می‌کند و دوباره امتحان می‌کند.",
+  "notes": "Add IKEv2 server: the new row is added at the very end of the list (like L2TP / Cisco), not under the last IKEv2 server.",
+  "notesFa": "افزودن سرور IKEv2: ردیف جدید آخر کل لیست اضافه می‌شود (مثل L2TP و Cisco)، نه زیر آخرین سرور IKEv2.",
   "sha256": ""
 }
