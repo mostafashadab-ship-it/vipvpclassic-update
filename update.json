@@ -1,8 +1,0 @@
-{
-  "versionCode": 208,
-  "versionName": "208.0",
-  "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Android 13 and below: the connected circle now shows only the protocol that is really in use (L2TP, OpenVPN or Cisco) instead of all three names.",
-  "notesFa": "اندروید ۱۳ و پایین‌تر: دایره‌ی متصل حالا فقط اسم پروتکلی را که واقعاً وصل شده (L2TP یا OpenVPN یا Cisco) نشان می‌دهد، نه هر سه اسم را.",
-  "sha256": ""
-}
