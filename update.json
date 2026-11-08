@@ -1,8 +1,8 @@
 {
-  "versionCode": 195,
-  "versionName": "195.0",
+  "versionCode": 196,
+  "versionName": "196.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "When the subscription has ended, a big message is shown on the main screen, and Settings shows 'Subscription ended' instead of 0 days.",
-  "notesFa": "وقتی اشتراک تمام شده باشد، پیام بزرگ «اشتراک شما تمام شده است» در صفحهٔ اصلی نمایش داده می‌شود و در تنظیمات به‌جای صفر «پایان اشتراک» نوشته می‌شود.",
+  "notes": "The downloaded update is kept: if you did not install it, tapping Update installs the same file without downloading again. Also: big 'subscription ended' message and 'Subscription ended' in Settings.",
+  "notesFa": "فایل بروزرسانیِ دانلودشده نگه داشته می‌شود؛ اگر نصبش نکردی، دفعهٔ بعد بدون دانلود دوباره همان نصب می‌شود. همچنین پیام بزرگ «اشتراک شما تمام شده است» و «پایان اشتراک» در تنظیمات.",
   "sha256": ""
 }
