@@ -1,8 +1,8 @@
 {
-  "versionCode": 190,
-  "versionName": "190.0",
+  "versionCode": 195,
+  "versionName": "195.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Login: added the line 'Auto connect with just one tap to the best server' under IKEv2 / L2TP / Cisco.",
-  "notesFa": "صفحه ورود: زیر IKEv2 و L2TP و Cisco عبارت «اتصال خودکار فقط با یک کلیک به بهترین سرور» اضافه شد.",
+  "notes": "When the subscription has ended, a big message is shown on the main screen, and Settings shows 'Subscription ended' instead of 0 days.",
+  "notesFa": "وقتی اشتراک تمام شده باشد، پیام بزرگ «اشتراک شما تمام شده است» در صفحهٔ اصلی نمایش داده می‌شود و در تنظیمات به‌جای صفر «پایان اشتراک» نوشته می‌شود.",
   "sha256": ""
 }
