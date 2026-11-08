@@ -1,8 +1,8 @@
 {
-  "versionCode": 216,
-  "versionName": "216.0",
+  "versionCode": 230,
+  "versionName": "230.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Add IKEv2 server: the new row is added at the very end of the list (like L2TP / Cisco), not under the last IKEv2 server.",
-  "notesFa": "افزودن سرور IKEv2: ردیف جدید آخر کل لیست اضافه می‌شود (مثل L2TP و Cisco)، نه زیر آخرین سرور IKEv2.",
+  "notes": "Fixed: an account with less than one full day left was shown as \"Subscription ended\". It now shows \"Last day\" with the hours left.",
+  "notesFa": "رفع مشکل: اکانتی که کمتر از یک روز کامل باقی داشت به اشتباه «پایان اشتراک» نشان داده می‌شد؛ حالا «آخرین روز» با ساعت‌های باقی‌مانده نمایش داده می‌شود.",
   "sha256": ""
 }
