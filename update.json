@@ -1,8 +1,8 @@
 {
-  "versionCode": 211,
-  "versionName": "211.0",
+  "versionCode": 212,
+  "versionName": "212.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "OpenVPN on mobile data: the app now picks the working network and binds to it, uses a smaller MTU and resends lost handshake packets faster. After a refused login right after its own session it waits for the old session to close and retries.",
-  "notesFa": "OpenVPN روی نت گوشی: برنامه شبکهٔ سالم را انتخاب و به آن وصل می‌شود، MTU کوچک‌تر و ارسال مجدد سریع‌تر بسته‌های دست‌دهی دارد. اگر لاگین درست بعد از نشست خود برنامه رد شود، صبر می‌کند تا نشست قبلی بسته شود و دوباره امتحان می‌کند.",
+  "notes": "Servers SER4.gsmxr.net and ca.gsmvpx.com were removed from the list. OpenVPN on mobile data: working network is chosen and used, smaller MTU, faster resend of handshake packets, and a wait + retry when the login is refused right after the app's own session.",
+  "notesFa": "سرورهای SER4.gsmxr.net و ca.gsmvpx.com از لیست حذف شدند. OpenVPN روی نت گوشی: شبکهٔ سالم انتخاب و استفاده می‌شود، MTU کوچک‌تر و ارسال مجدد سریع‌تر بسته‌های دست‌دهی دارد، و اگر لاگین درست بعد از نشست خود برنامه رد شود صبر می‌کند و دوباره امتحان می‌کند.",
   "sha256": ""
 }
