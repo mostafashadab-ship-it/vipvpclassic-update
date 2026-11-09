@@ -1,8 +1,8 @@
 {
-  "versionCode": 247,
-  "versionName": "247.0",
+  "versionCode": 251,
+  "versionName": "251.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Auto Connect: Android 14+ connects to the first IKEv2 server that comes up (no 3-server quality test); if none connects, L2TP/OpenVPN in random order (a much faster one first), Cisco last. Android 13 and below: L2TP/OpenVPN in random order, Cisco last. Error log shows the full account answer.",
-  "notesFa": "اتصال خودکار: در اندروید ۱۴ به بالا به اولین سرور IKEv2 که وصل شود متصل می‌شود (تست کیفیت ۳ سرور حذف شد)؛ اگر هیچ‌کدام وصل نشد، L2TP و OpenVPN به‌صورت شانسی (سرور خیلی سریع‌تر اول) و آخر Cisco. در اندروید ۱۳ و پایین‌تر: L2TP و OpenVPN شانسی و آخر Cisco. گزارش خطا پاسخ کامل حساب را نشان می‌دهد.",
+  "notes": "Login screen: the IKEv2 name is hidden on Android 13 and below (only L2TP, OpenVPN and Cisco are shown).",
+  "notesFa": "صفحه ورود: در اندروید ۱۳ و پایین‌تر نام IKEv2 نمایش داده نمی‌شود (فقط L2TP، OpenVPN و Cisco).",
   "sha256": ""
 }
