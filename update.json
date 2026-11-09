@@ -1,8 +1,8 @@
 {
-  "versionCode": 240,
-  "versionName": "240.0",
+  "versionCode": 244,
+  "versionName": "244.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Fixed: after a failed manual connect (for example when data has run out) the server button no longer stays orange \"Connecting...\" for a few seconds.",
-  "notesFa": "رفع مشکل: بعد از شکست اتصال دستی (مثلاً وقتی حجم تمام شده) دکمه سرور دیگر چند ثانیه نارنجی و «در حال اتصال...» نمی‌ماند.",
+  "notes": "Cisco is now always the last server: in the automatic order, after an automatic reconnect, and in the server list. IKEv2 first, then OpenVPN / L2TP, and Cisco only at the very end.",
+  "notesFa": "سرور Cisco حالا همیشه آخرین سرور است: در ترتیب اتصال خودکار، بعد از اتصال دوباره‌ی خودکار و در لیست سرورها. اول IKEv2، بعد OpenVPN و L2TP، و Cisco فقط در انتها.",
   "sha256": ""
 }
