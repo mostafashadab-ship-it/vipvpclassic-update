@@ -1,8 +1,8 @@
 {
-  "versionCode": 230,
-  "versionName": "230.0",
+  "versionCode": 240,
+  "versionName": "240.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Fixed: an account with less than one full day left was shown as \"Subscription ended\". It now shows \"Last day\" with the hours left.",
-  "notesFa": "رفع مشکل: اکانتی که کمتر از یک روز کامل باقی داشت به اشتباه «پایان اشتراک» نشان داده می‌شد؛ حالا «آخرین روز» با ساعت‌های باقی‌مانده نمایش داده می‌شود.",
+  "notes": "Fixed: after a failed manual connect (for example when data has run out) the server button no longer stays orange \"Connecting...\" for a few seconds.",
+  "notesFa": "رفع مشکل: بعد از شکست اتصال دستی (مثلاً وقتی حجم تمام شده) دکمه سرور دیگر چند ثانیه نارنجی و «در حال اتصال...» نمی‌ماند.",
   "sha256": ""
 }
