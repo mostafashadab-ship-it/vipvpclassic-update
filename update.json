@@ -1,8 +1,8 @@
 {
-  "versionCode": 244,
-  "versionName": "244.0",
+  "versionCode": 247,
+  "versionName": "247.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Cisco is now always the last server: in the automatic order, after an automatic reconnect, and in the server list. IKEv2 first, then OpenVPN / L2TP, and Cisco only at the very end.",
-  "notesFa": "سرور Cisco حالا همیشه آخرین سرور است: در ترتیب اتصال خودکار، بعد از اتصال دوباره‌ی خودکار و در لیست سرورها. اول IKEv2، بعد OpenVPN و L2TP، و Cisco فقط در انتها.",
+  "notes": "Auto Connect: Android 14+ connects to the first IKEv2 server that comes up (no 3-server quality test); if none connects, L2TP/OpenVPN in random order (a much faster one first), Cisco last. Android 13 and below: L2TP/OpenVPN in random order, Cisco last. Error log shows the full account answer.",
+  "notesFa": "اتصال خودکار: در اندروید ۱۴ به بالا به اولین سرور IKEv2 که وصل شود متصل می‌شود (تست کیفیت ۳ سرور حذف شد)؛ اگر هیچ‌کدام وصل نشد، L2TP و OpenVPN به‌صورت شانسی (سرور خیلی سریع‌تر اول) و آخر Cisco. در اندروید ۱۳ و پایین‌تر: L2TP و OpenVPN شانسی و آخر Cisco. گزارش خطا پاسخ کامل حساب را نشان می‌دهد.",
   "sha256": ""
 }
