@@ -1,8 +1,8 @@
 {
-  "versionCode": 251,
-  "versionName": "251.0",
+  "versionCode": 256,
+  "versionName": "256.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Login screen: the IKEv2 name is hidden on Android 13 and below (only L2TP, OpenVPN and Cisco are shown).",
-  "notesFa": "صفحه ورود: در اندروید ۱۳ و پایین‌تر نام IKEv2 نمایش داده نمی‌شود (فقط L2TP، OpenVPN و Cisco).",
+  "notes": "While connected, the app icon shows a \"1\" badge (like other VPN apps).",
+  "notesFa": "وقتی اتصال برقرار است، روی آیکون برنامه عدد «۱» نمایش داده می‌شود.",
   "sha256": ""
 }
