@@ -1,8 +1,8 @@
 {
-  "versionCode": 266,
-  "versionName": "266.0",
+  "versionCode": 268,
+  "versionName": "268.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "IKEv2: after a network cut the same server is tried first; if it does not answer, the other servers are tried the normal way (ping, skip dead, random order).",
-  "notesFa": "IKEv2: بعد از قطع شبکه اول فقط همان سرور قبلی امتحان می‌شود؛ اگر جواب نداد، سرورهای دیگر مثل قبل (پینگ، حذف سرورهای مرده، ترتیب شانسی) امتحان می‌شوند.",
+  "notes": "OpenVPN / L2TP / Cisco: after a network cut the app now waits for the internet as long as needed (was 2 minutes) and reconnects by itself, instead of stopping. IKEv2 fix from the previous version is kept.",
+  "notesFa": "OpenVPN / L2TP / Cisco: بعد از قطع اینترنت، برنامه هر چقدر لازم باشد منتظر می‌ماند (قبلاً فقط ۲ دقیقه) و خودکار وصل می‌شود، نه اینکه خودش را ببندد. اصلاح IKEv2 نسخه قبل حفظ شده است.",
   "sha256": ""
 }
