@@ -1,8 +1,8 @@
 {
-  "versionCode": 256,
-  "versionName": "256.0",
+  "versionCode": 257,
+  "versionName": "257.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "While connected, the app icon shows a \"1\" badge (like other VPN apps).",
-  "notesFa": "وقتی اتصال برقرار است، روی آیکون برنامه عدد «۱» نمایش داده می‌شود.",
+  "notes": "IKEv2: when the internet is cut and comes back, the app now waits for the network and reconnects by itself instead of failing over every server.",
+  "notesFa": "IKEv2: وقتی اینترنت قطع و دوباره وصل می‌شود، برنامه منتظر برگشتن شبکه می‌ماند و خودش دوباره وصل می‌شود (به‌جای شکست روی همه‌ی سرورها).",
   "sha256": ""
 }
