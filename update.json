@@ -1,8 +1,8 @@
 {
-  "versionCode": 257,
-  "versionName": "257.0",
+  "versionCode": 266,
+  "versionName": "266.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "IKEv2: when the internet is cut and comes back, the app now waits for the network and reconnects by itself instead of failing over every server.",
-  "notesFa": "IKEv2: وقتی اینترنت قطع و دوباره وصل می‌شود، برنامه منتظر برگشتن شبکه می‌ماند و خودش دوباره وصل می‌شود (به‌جای شکست روی همه‌ی سرورها).",
+  "notes": "IKEv2: after a network cut the same server is tried first; if it does not answer, the other servers are tried the normal way (ping, skip dead, random order).",
+  "notesFa": "IKEv2: بعد از قطع شبکه اول فقط همان سرور قبلی امتحان می‌شود؛ اگر جواب نداد، سرورهای دیگر مثل قبل (پینگ، حذف سرورهای مرده، ترتیب شانسی) امتحان می‌شوند.",
   "sha256": ""
 }
