@@ -1,9 +1,8 @@
 {
-  "version": 2,
+  "version": 3,
   "ikev2": [
     "ikfr1.gsmxr.net",
-    "ikswd1.gsmxr.net",
-    "iknl1.gsmxr.net"
+    "ikswd1.gsmxr.net"
   ],
   "other": [
     "L3tp.gsmxr.net",
