@@ -1,10 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
   "ikev2": [
     "ikfr1.gsmxr.net",
     "ikswd1.gsmxr.net",
-    "iknl1.gsmxr.net",
-    "iktr1.gsmxr.net"
+    "iknl1.gsmxr.net"
   ],
   "other": [
     "L3tp.gsmxr.net",
@@ -12,8 +11,7 @@
     "Sstp2.gsmxr.net",
     "cisco:Mu1.gsmxr.net",
     "ovpn:bul.gsmxr.net",
-    "ovpn:ser5.gsmxr.net",
-    "ovpn:tr.gsmxr.net"
+    "ovpn:ser5.gsmxr.net"
   ],
   "removed": []
 }
