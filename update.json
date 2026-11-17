@@ -1,8 +1,8 @@
 {
-  "versionCode": 268,
-  "versionName": "268.0",
+  "versionCode": 811,
+  "versionName": "811.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "OpenVPN / L2TP / Cisco: after a network cut the app now waits for the internet as long as needed (was 2 minutes) and reconnects by itself, instead of stopping. IKEv2 fix from the previous version is kept.",
-  "notesFa": "OpenVPN / L2TP / Cisco: بعد از قطع اینترنت، برنامه هر چقدر لازم باشد منتظر می‌ماند (قبلاً فقط ۲ دقیقه) و خودکار وصل می‌شود، نه اینکه خودش را ببندد. اصلاح IKEv2 نسخه قبل حفظ شده است.",
+  "notes": "Automatic order fixed: IKEv2 -> SSTP -> L2TP -> OpenVPN -> Cisco (L2TP used to come before SSTP). In automatic mode a server without a ping answer is skipped completely (no waiting) as long as some other server answers.",
+  "notesFa": "ترتیب اتصال خودکار درست شد: IKEv2 ← SSTP ← L2TP ← OpenVPN ← Cisco (قبلاً L2TP جلوتر از SSTP بود). در حالت خودکار هر سروری که به پینگ جواب ندهد کاملاً رد می‌شود (بدون انتظار) تا وقتی سرور دیگری جواب بدهد.",
   "sha256": ""
 }
