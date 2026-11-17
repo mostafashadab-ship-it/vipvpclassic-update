@@ -1,8 +1,8 @@
 {
-  "versionCode": 812,
-  "versionName": "812.0",
+  "versionCode": 815,
+  "versionName": "815.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Automatic connect fixed: if no IKEv2 server is saved (for example it was deleted), the auto button now goes straight to the SSTP / L2TP / other servers instead of saying 'Add at least one server'.",
-  "notesFa": "اتصال خودکار درست شد: اگر هیچ سرور IKEv2 ذخیره نباشد (مثلاً پاک شده باشد)، دکمهٔ خودکار مستقیماً به سرورهای SSTP / L2TP و بقیه وصل می‌شود و دیگر پیام «حداقل یک سرور اضافه کن» نمی‌دهد.",
+  "notes": "Manual connect no longer tests anything: the picked server is tried at once and the status shows 'Connecting: <server>' instead of 'Testing servers...'.",
+  "notesFa": "اتصال دستی دیگر هیچ تستی نمی‌گیرد: سرور انتخاب‌شده فوراً امتحان می‌شود و به‌جای «در حال تست سرورها…» وضعیت «در حال اتصال: <سرور>» نشان داده می‌شود.",
   "sha256": ""
 }
