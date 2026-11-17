@@ -1,8 +1,8 @@
 {
-  "versionCode": 811,
-  "versionName": "811.0",
+  "versionCode": 812,
+  "versionName": "812.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Automatic order fixed: IKEv2 -> SSTP -> L2TP -> OpenVPN -> Cisco (L2TP used to come before SSTP). In automatic mode a server without a ping answer is skipped completely (no waiting) as long as some other server answers.",
-  "notesFa": "ترتیب اتصال خودکار درست شد: IKEv2 ← SSTP ← L2TP ← OpenVPN ← Cisco (قبلاً L2TP جلوتر از SSTP بود). در حالت خودکار هر سروری که به پینگ جواب ندهد کاملاً رد می‌شود (بدون انتظار) تا وقتی سرور دیگری جواب بدهد.",
+  "notes": "Automatic connect fixed: if no IKEv2 server is saved (for example it was deleted), the auto button now goes straight to the SSTP / L2TP / other servers instead of saying 'Add at least one server'.",
+  "notesFa": "اتصال خودکار درست شد: اگر هیچ سرور IKEv2 ذخیره نباشد (مثلاً پاک شده باشد)، دکمهٔ خودکار مستقیماً به سرورهای SSTP / L2TP و بقیه وصل می‌شود و دیگر پیام «حداقل یک سرور اضافه کن» نمی‌دهد.",
   "sha256": ""
 }
