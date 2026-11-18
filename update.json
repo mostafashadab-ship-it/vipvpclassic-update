@@ -1,8 +1,8 @@
 {
-  "versionCode": 815,
-  "versionName": "815.0",
+  "versionCode": 830,
+  "versionName": "830.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Manual connect no longer tests anything: the picked server is tried at once and the status shows 'Connecting: <server>' instead of 'Testing servers...'.",
-  "notesFa": "اتصال دستی دیگر هیچ تستی نمی‌گیرد: سرور انتخاب‌شده فوراً امتحان می‌شود و به‌جای «در حال تست سرورها…» وضعیت «در حال اتصال: <سرور>» نشان داده می‌شود.",
+  "notes": "Connect check: after login, the country/flag check through the tunnel now waits up to 7 s (was 5 s), so a server whose tunnel starts slowly is no longer dropped.",
+  "notesFa": "بررسی اتصال: بعد از لاگین، بررسی کشور/پرچم از داخل تونل حالا تا ۷ ثانیه (به‌جای ۵) صبر می‌کند تا سروری که تونلش دیر شروع می‌شود رد نشود.",
   "sha256": ""
 }
