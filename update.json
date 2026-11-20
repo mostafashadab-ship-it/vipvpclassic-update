@@ -1,8 +1,8 @@
 {
-  "versionCode": 830,
-  "versionName": "830.0",
+  "versionCode": 847,
+  "versionName": "847.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Connect check: after login, the country/flag check through the tunnel now waits up to 7 s (was 5 s), so a server whose tunnel starts slowly is no longer dropped.",
-  "notesFa": "بررسی اتصال: بعد از لاگین، بررسی کشور/پرچم از داخل تونل حالا تا ۷ ثانیه (به‌جای ۵) صبر می‌کند تا سروری که تونلش دیر شروع می‌شود رد نشود.",
+  "notes": "Settings: the battery access block (hint + tick box) blinks while battery access is not granted and disappears completely once it is granted.",
+  "notesFa": "تنظیمات: بلوک «دسترسی به باتری» (متن + تیک) تا وقتی دسترسی داده نشده چشمک می‌زند و بعد از دادن دسترسی کاملاً مخفی می‌شود.",
   "sha256": ""
 }
