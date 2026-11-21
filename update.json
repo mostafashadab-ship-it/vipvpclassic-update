@@ -1,8 +1,8 @@
 {
-  "versionCode": 848,
-  "versionName": "848.0",
+  "versionCode": 850,
+  "versionName": "850.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Notification: on Xiaomi/Redmi/POCO (MIUI) phones the VPN notification now has a full blue (connecting) / green (connected) background, like Samsung.",
-  "notesFa": "اعلان: در گوشی‌های شیائومی/ردمی/پوکو (MIUI) اعلان VPN حالا کل پس‌زمینه‌اش آبی (در حال اتصال) / سبز (متصل) می‌شود، مثل سامسونگ.",
+  "notes": "Auto connect: two IKEv2 servers are tested (Instagram) first; if neither connects, one more pair of IKEv2 servers is tried, then the other protocols.",
+  "notesFa": "اتصال خودکار: اول دو سرور IKEv2 (با تست اینستاگرام)؛ اگر وصل نشد دو سرور IKEv2 دیگر، و بعد پروتکل‌های دیگر.",
   "sha256": ""
 }
