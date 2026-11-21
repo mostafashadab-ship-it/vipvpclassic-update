@@ -1,8 +1,8 @@
 {
-  "versionCode": 847,
-  "versionName": "847.0",
+  "versionCode": 848,
+  "versionName": "848.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Settings: the battery access block (hint + tick box) blinks while battery access is not granted and disappears completely once it is granted.",
-  "notesFa": "تنظیمات: بلوک «دسترسی به باتری» (متن + تیک) تا وقتی دسترسی داده نشده چشمک می‌زند و بعد از دادن دسترسی کاملاً مخفی می‌شود.",
+  "notes": "Notification: on Xiaomi/Redmi/POCO (MIUI) phones the VPN notification now has a full blue (connecting) / green (connected) background, like Samsung.",
+  "notesFa": "اعلان: در گوشی‌های شیائومی/ردمی/پوکو (MIUI) اعلان VPN حالا کل پس‌زمینه‌اش آبی (در حال اتصال) / سبز (متصل) می‌شود، مثل سامسونگ.",
   "sha256": ""
 }
