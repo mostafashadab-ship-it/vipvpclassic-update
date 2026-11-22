@@ -1,8 +1,8 @@
 {
-  "versionCode": 850,
-  "versionName": "850.0",
+  "versionCode": 858,
+  "versionName": "858.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Auto connect: two IKEv2 servers are tested (Instagram) first; if neither connects, one more pair of IKEv2 servers is tried, then the other protocols.",
-  "notesFa": "اتصال خودکار: اول دو سرور IKEv2 (با تست اینستاگرام)؛ اگر وصل نشد دو سرور IKEv2 دیگر، و بعد پروتکل‌های دیگر.",
+  "notes": "Settings: the Announcements button moved above the GIF, has a bell icon and blinks while there is a message in it.",
+  "notesFa": "تنظیمات: دکمه‌ی اطلاعیه‌ها بالای گیف آمد، آیکن زنگوله دارد و تا وقتی پیامی در آن هست چشمک می‌زند.",
   "sha256": ""
 }
