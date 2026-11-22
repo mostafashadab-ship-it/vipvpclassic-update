@@ -1,14 +1,14 @@
 {
   "items": [
     {
-      "id": "test-1",
+      "id": "test-2",
       "active": true,
-      "popup": true,
+      "popup": false,
       "notify": true,
-      "title": "Test announcement",
-      "titleFa": "اطلاعیه آزمایشی",
-      "text": "This is a test announcement from Vip VPN.",
-      "textFa": "این یک اطلاعیه‌ی آزمایشی از Vip VPN است. اگر این پیام را می‌بینید، بخش اطلاعیه درست کار می‌کند.",
+      "title": "Notification test",
+      "titleFa": "تست نوتیفیکیشن",
+      "text": "If you see this in the notification shade, announcements work.",
+      "textFa": "اگر این پیام را در پرده‌ی اعلان‌ها می‌بینید، اطلاعیه‌ها درست کار می‌کنند.",
       "button": "",
       "buttonFa": "",
       "link": ""
