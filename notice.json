@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "offer-1",
+      "active": false,
+      "popup": true,
+      "title": "Special offer",
+      "titleFa": "تخفیف ویژه",
+      "text": "30% off all plans this week.",
+      "textFa": "این هفته ۳۰٪ تخفیف روی همه‌ی اشتراک‌ها.",
+      "button": "Buy now",
+      "buttonFa": "خرید",
+      "link": "https://t.me/your_channel",
+      "expires": "2026-12-31",
+      "notify": true
+    }
+  ]
+}
