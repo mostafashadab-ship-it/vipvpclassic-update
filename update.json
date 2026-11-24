@@ -1,8 +1,8 @@
 {
-  "versionCode": 858,
-  "versionName": "858.0",
+  "versionCode": 865,
+  "versionName": "865.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Settings: the Announcements button moved above the GIF, has a bell icon and blinks while there is a message in it.",
-  "notesFa": "تنظیمات: دکمه‌ی اطلاعیه‌ها بالای گیف آمد، آیکن زنگوله دارد و تا وقتی پیامی در آن هست چشمک می‌زند.",
+  "notes": "The connect circle now shows how long you have been connected (under IKEv2). The flag and country text moved up a little.",
+  "notesFa": "داخل دایره اتصال، مدت زمان متصل بودن زیر IKEv2 نمایش داده می‌شود. پرچم و نوشته‌ها کمی بالاتر رفتند.",
   "sha256": ""
 }
