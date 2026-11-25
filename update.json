@@ -1,8 +1,8 @@
 {
-  "versionCode": 865,
-  "versionName": "865.0",
+  "versionCode": 902,
+  "versionName": "902.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "The connect circle now shows how long you have been connected (under IKEv2). The flag and country text moved up a little.",
-  "notesFa": "داخل دایره اتصال، مدت زمان متصل بودن زیر IKEv2 نمایش داده می‌شود. پرچم و نوشته‌ها کمی بالاتر رفتند.",
+  "notes": "Login screen: the OpenVPN diamond is now the same size as the other protocol diamonds.",
+  "notesFa": "صفحه ورود: لوزی OpenVPN الان هم‌اندازه‌ی بقیه‌ی لوزی‌هاست.",
   "sha256": ""
 }
