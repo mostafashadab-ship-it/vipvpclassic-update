@@ -1,8 +1,8 @@
 {
-  "versionCode": 902,
-  "versionName": "902.0",
+  "versionCode": 923,
+  "versionName": "923.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "Login screen: the OpenVPN diamond is now the same size as the other protocol diamonds.",
-  "notesFa": "صفحه ورود: لوزی OpenVPN الان هم‌اندازه‌ی بقیه‌ی لوزی‌هاست.",
+  "notes": "New logins are now accepted only for VIP Classic plans (1, 2, 3, 6 month and VIP test). Users who are already logged in are not affected.",
+  "notesFa": "ورود جدید فقط برای پلن‌های VIP Classic (یک، دو، سه، شش ماهه و تست VIP) پذیرفته می‌شود. کسانی که از قبل وارد شده‌اند تغییری نمی‌بینند.",
   "sha256": ""
 }
