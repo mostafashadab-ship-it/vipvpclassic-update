@@ -1,8 +1,8 @@
 {
-  "versionCode": 923,
-  "versionName": "923.0",
+  "versionCode": 947,
+  "versionName": "947.0",
   "apkUrl": "https://raw.githubusercontent.com/mostafashadab-ship-it/vipvpclassic-update/main/vipvpclassic1.apk",
-  "notes": "New logins are now accepted only for VIP Classic plans (1, 2, 3, 6 month and VIP test). Users who are already logged in are not affected.",
-  "notesFa": "ورود جدید فقط برای پلن‌های VIP Classic (یک، دو، سه، شش ماهه و تست VIP) پذیرفته می‌شود. کسانی که از قبل وارد شده‌اند تغییری نمی‌بینند.",
+  "notes": "Instagram quick-keep threshold raised from 1150 ms to 1170 ms: a server whose Instagram test is 1170 ms or less is kept at once and the other servers are not tested. Everything else is unchanged (UDP 4500 first for all IKE protocols and the ping, UDP 500 only when 4500 got no answer).",
+  "notesFa": "آستانه‌ی نگه‌داشتن سریع با تست اینستاگرام از ۱۱۵۰ به ۱۱۷۰ میلی‌ثانیه رفت: سروری که تست اینستاگرامش ۱۱۷۰ میلی‌ثانیه یا کمتر باشد فوراً نگه داشته می‌شود و بقیه تست نمی‌شوند. بقیه‌چیز تغییری نکرده (برای همه‌ی پروتکل‌های IKE و پینگ اول UDP 4500 و فقط اگر جواب نداد UDP 500).",
   "sha256": ""
 }
